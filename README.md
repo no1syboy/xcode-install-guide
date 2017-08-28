@@ -4,6 +4,11 @@
 
 ### Xcode esta instalado?
 
+1. Abrimos `Terminal` o `iTerm` con el comando `command + tab`:
+
+
+![](src/gif/open-iterm.gif)
+
 Verificar si tenemos la version completa de Xcode package instalada:
 
 ```
