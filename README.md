@@ -14,10 +14,9 @@ Si vemos la siguiente linea en terminal:
 ```
 /Applications/Xcode.app/Contents/Developer
 ```
+![](src/img/xcode-select.png?raw=true)
 
 Ya tenemos en code instalado. Si no es el caso lo intalamos ejecutandio lo siguiente:
 ```
 $ xcode-select --install
 ```
-
-[img]: https://github.com/no1syboy/xcode-install-guide/blob/master/src/img/xcode-select.png
