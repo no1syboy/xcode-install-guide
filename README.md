@@ -19,3 +19,5 @@ Ya tenemos en code instalado. Si no es el caso lo intalamos ejecutandio lo sigui
 ```
 $ xcode-select --install
 ```
+
+[img]: https://github.com/no1syboy/xcode-install-guide/blob/master/src/img/xcode-select.png
